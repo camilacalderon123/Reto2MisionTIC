@@ -4,4 +4,6 @@ TicNet Corp. desea priorizar en esta fase la creación de un menú recurrente y 
 ## ¿Qué nos piden hacer?
 Se debe realizar un menú adaptativo que le permita al usuario configurar su opción favorita y salir del menú cuando lo considere necesario.
 - Se deben mostrar las diferentes opciones del menú.
+- El usuario elige su opción favorita y se debe solicitar una confirmación por parte del usuario la cual está compuesta por dos adivinanzas.
+- El usuario ingresa la opción número 7 la cual le permite salir del menú.
 
